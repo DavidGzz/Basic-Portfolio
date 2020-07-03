@@ -109,7 +109,33 @@ button{
 }
 
 .things{
-    position: relative;
+    color: white;
+    text-align: center;
+    background: #4aaaa5;
+    position: absolute;
+    width: 200px;
+    left: 15px;
+    top: 197px;
+}
+
+.things1{
+    color: white;
+    text-align: center;
+    background: #4aaaa5;
+    position: absolute;
+    width: 200px;
+    left: 230px;
+    top: 198px;
+}
+
+.things2{
+    color: white;
+    text-align: center;
+    background: #4aaaa5;
+    position: absolute;
+    width: 200px;
+    left: 440px;
+    top: 198px;
 }
 
 .imageP{
@@ -117,7 +143,15 @@ button{
     margin-left: 15px;
 }
 
-.image3{
-    float: left;
+.container{
+    position: relative;
+}
+
+.container1{
+    position: relative;
+}
+
+.container2{
+    position: relative;
 }
 
