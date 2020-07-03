@@ -1,0 +1,123 @@
+.back{
+    background-image: url(./background.png);
+}
+
+H1{
+    font-family: Georgia;
+    background : #4aaaa5;
+    color: white;
+    float: left;
+}
+
+H2{
+    font-family: Georgia;
+    margin-left: 15px;
+}
+
+.lista{
+    list-style: none;
+}
+
+p{
+    font-family: Arial;
+    text-align: justify;
+    margin-right: 15px;
+}
+
+.hhr1{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 20px;
+}
+
+header{
+    list-style: none;
+    width: 960px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 50px;
+    background: white;
+}
+
+.profile{
+    width: 960px;
+    height: 500px;
+    margin: auto;
+    background: white;
+}
+
+.portfolio{
+    padding : 10px;
+    border-right: 2px solid grey;
+    float : right;
+}
+
+.about{
+    float : right;
+    padding : 10px;
+    border-right: 2px solid grey;
+}
+
+.contact{
+    padding : 10px;
+    float : right;
+}
+
+.image{
+    float: left;
+    margin-right: 10px;
+    margin-left: 15px;
+}
+
+.clearfix{
+    display: flow-root;
+}
+
+footer {
+    font-family: Arial;
+    margin-top: 23px;
+    padding: 20px;
+    clear: both;
+    background: #FFA500;
+    text-align: center;
+  }
+
+label{
+    margin-left: 15px;
+}
+
+textarea{
+    width: 930px;
+    margin-left: 15px;
+}
+
+input{
+    width: 930px;
+    margin-left: 15px;
+}
+
+.c{
+    margin-bottom: 15px;
+}
+
+button{
+    height: 25px;
+    font-family: Arial;
+    color: white;
+    background: #4aaaa5;
+    margin-left: 15px;
+}
+
+.things{
+    position: relative;
+}
+
+.imageP{
+    float: left;
+    margin-left: 15px;
+}
+
+.image3{
+    float: left;
+}
+
