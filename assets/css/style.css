@@ -46,7 +46,8 @@ header{
     width: 960px;
     height: 500px;
     margin: auto;
-    background: white;
+    background: #ffffff;
+    border: 5px solid #dddddd;
 }
 
 .portfolio{
@@ -156,6 +157,7 @@ footer {
     text-align: center;
     vertical-align: baseline;
     color: white;
+    flex-shrink: 0;
 }
 
 .f{
@@ -163,3 +165,14 @@ footer {
     background: #4aaaa5;
 }
 
+li:hover{
+    cursor: pointer;
+    color: white;
+    background-color: #999999;
+}
+
+a:hover{
+    cursor: pointer;
+    color: white;
+    background-color: #999999;
+}
